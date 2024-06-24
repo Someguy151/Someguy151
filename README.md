@@ -5,7 +5,7 @@ Electrical Engineer
 -------------------  
 
 * 🌍  I'm based in California
-* ✉️  You can contact me at [jonathanhooper7@gmail.com](mailto:jonathanhooper7@gmail.com)
+* ✉️  You can contact me at [jonathan@jonathanhooper.dev](mailto:jonathan@jonathanhooper.dev)
 
 ### Skills  
 
